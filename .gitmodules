@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ODRF"]
+	path = ODRF
+	url = https://github.com/liuyu-star/odrf
+	shallow = true
+	registered = true
